@@ -1,1 +1,6 @@
 # UrCash-Backend
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
